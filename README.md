@@ -11,8 +11,8 @@ DPRL Hidden Markov Model (HMM) Math Symbol Classifier is distributed in the hope
 You should have received a copy of the GNU General Public License along with DPRL Hidden Markov Model (HMM) Math Symbol Classifier.  If not, see <http://www.gnu.org/licenses/>.
 
 Contact:
-        - Lei Hu: lei.hu@rit.edu
-        - Richard Zanibbi: rlaz@cs.rit.edu 
+   - Lei Hu: lei.hu@rit.edu
+   - Richard Zanibbi: rlaz@cs.rit.edu 
 
 
 This document is about the HMM online math symbol classifier in the paper [HMM-Based Recognition of Online Handwritten Mathematical Symbols Using Segmental K-means Initialization and a Modified Pen-up/down Feature].
