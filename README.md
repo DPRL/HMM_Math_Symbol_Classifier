@@ -15,6 +15,8 @@ Contact:
    - Richard Zanibbi: rlaz@cs.rit.edu 
 
 
+
+
 This document is about the HMM online math symbol classifier in the paper [HMM-Based Recognition of Online Handwritten Mathematical Symbols Using Segmental K-means Initialization and a Modified Pen-up/down Feature].
 The details about preprocessing, feature selection and HMM algorithm can be found in the paper.
 
